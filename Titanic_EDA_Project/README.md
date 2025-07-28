@@ -1,27 +1,31 @@
-Exploratory Data Analysis on Titanic Dataset
+**Exploratory Data Analysis on Titanic Dataset**
+
 This project explores the classic Titanic: Machine Learning from Disaster dataset from Kaggle, focusing on data cleaning, visualization, and extracting insights from the passenger data.
 
-Key Objectives
-Handle missing values and fix data types
+**Key Objectives**
 
-Perform descriptive statistical analysis
+-Handle missing values and fix data types
 
-Generate group-based insights (e.g., survival by gender and class)
+-Perform descriptive statistical analysis
 
-Visualize key patterns using bar plots and heatmaps
+-Generate group-based insights (e.g., survival by gender and class)
 
-Explore correlations among numerical features
+-Visualize key patterns using bar plots and heatmaps
 
-Tools & Libraries
-Python
+-Explore correlations among numerical features
 
-Pandas
+**Tools & Libraries**
 
-Seaborn & Matplotlib
+-Python
 
-Pandas Profiling
+-Pandas
 
-Highlights
+-Seaborn & Matplotlib
+
+-Pandas Profiling
+
+**Highlights**
+
 Cleaned and analyzed the Titanic dataset
 
 Explored survival rates by gender, passenger class, and family relations
@@ -30,5 +34,6 @@ Created meaningful visualizations to uncover patterns
 
 Built correlation heatmaps to understand relationships between features
 
-Files
-Titanic_EDA.ipynb – Jupyter notebook containing the full analysis
+**Files**
+
+Titanic_analysis.ipynb – Jupyter notebook containing the full analysis
