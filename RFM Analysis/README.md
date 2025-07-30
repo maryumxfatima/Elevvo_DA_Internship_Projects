@@ -1,9 +1,9 @@
-# 🛍️ Customer Segmentation using RFM Analysis
+# Customer Segmentation using RFM Analysis
 
 This project applies **RFM (Recency, Frequency, Monetary) analysis** to the **Online Retail Dataset** (UCI Machine Learning Repository) to segment customers based on their purchase behaviour.  
 The goal is to identify key customer groups and suggest actionable marketing strategies.
 
-## 📂 Project Overview
+## Project Overview
 
 1. **Data Cleaning**
    - Removed missing `CustomerID` (cannot track customers without IDs)
