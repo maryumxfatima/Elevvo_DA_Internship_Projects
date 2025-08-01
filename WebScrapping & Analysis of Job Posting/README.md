@@ -1,4 +1,4 @@
-# 💼 Job Postings Web Scraping & Skill Demand Analysis
+# Job Postings Web Scraping & Skill Demand Analysis
 
 This project involves web scraping job listings from **Indeed**to extract valuable fields, including job title, company, location, required skills (tags), and posted dates. The data is then cleaned, analyzed, and visualized to identify the most in-demand skills and trends across different cities.
 
