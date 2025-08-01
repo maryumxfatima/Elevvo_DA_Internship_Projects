@@ -22,11 +22,3 @@ This project involves web scraping job listings from **Indeed**to extract valuab
 - `collections.Counter` – for skill frequency analysis  
 - `re` – for regex-based cleaning
 
----
-
-## Project Structure
-
-```bash
-├── job_postings_analysis.ipynb    
-├── job_postings.csv               
-├── README.md                      
