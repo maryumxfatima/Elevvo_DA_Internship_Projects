@@ -46,5 +46,4 @@ The data used is sourced from the **Walmart Weekly Sales** dataset, typically av
 
 ### 🔗 Author
 **Maryam Fatima**  
-For questions or collaborations, feel free to reach out!
 
